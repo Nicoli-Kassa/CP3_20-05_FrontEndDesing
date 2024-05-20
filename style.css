@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    background-color:indianred;
+    color:aliceblue;
+    font-size: 40px;
+    text-align: center;
+}
+
+#header{
+    width: 980px;
+    height: 140px;
+    margin-bottom: 15px;
+}
+
+#sidebar{
+    width: 270px;
+    height: 450px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+#content{
+    width: 690px;
+    height: 450px;
+    display: inline-block;
+}
+
+#footer{
+    width: 980px;
+    height: 70px;
+    margin-top: 15px;
+}
